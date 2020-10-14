@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Roboto+Condensed:700|Roboto:100,300,700");
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap");
 
 #header {
     background-image: url("../images/apple-pie.jpg");
@@ -22,13 +22,13 @@ h4 {
 
 #presentation_section {
     width: auto;
-    margin: 8% 5% 5% 5%;
+    margin: 6% 8% 8% 8%;
 }
 
 .presentation_text {
-    font-family: roboto;
+    font-family: quicksand;
     font-style: normal;
-    font-size: 1.7em;
+    font-size: 1.5em;
 }
 
 .recipe-info {
@@ -47,17 +47,17 @@ h4 {
 }
 
 #ingredients {
-    font-family: roboto;
-    font-size: 1.4em;
+    font-family: quicksand;
+    font-size: 1.3em;
     width: auto;
-    margin: 5% 5% 5% 5%;
+    margin: 6% 8% 8% 8%;
 }
 
 #directions {
-    font-family: roboto;
-    font-size: 1.4em;
+    font-family: quicksand;
+    font-size: 1.3em;
     width: auto;
-    margin: 5% 5% 5% 5%;
+    margin: 6% 8% 8% 8%;
 }
 
 .cooking-info {
